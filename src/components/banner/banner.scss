@@ -1,0 +1,60 @@
+.bg-banner {
+    background-size: cover;
+    background-image: url('https://skilllane.s3-ap-southeast-1.amazonaws.com/banner_academic/tu_banner.png');
+    height: 100%;
+}
+
+.inner-banner {
+    padding: 50px 0 50px 0 !important;
+}
+
+.brand-icon {
+    width: 5%;
+}
+
+.brand-txt {
+    color: #d23435;
+    font-size: 1.0em;
+    vertical-align: middle;
+}
+
+.brand-sub-txt {
+    color: #676767;
+    font-size: 1.5em;
+    vertical-align: middle;
+}
+
+.btn-category {
+    background-color: transparent !important;
+    border: #676767 1px solid !important;
+    color: #676767 !important;
+    border-radius: 20px !important;
+    font-size: 0.6em !important;
+}
+
+.btn-category:hover {
+    background-color: #034424 !important;
+    border: #034424 1px solid !important;
+    color: white !important;
+}
+
+.stars {
+    margin-top: -5px;
+}
+
+.btn-share {
+    background-color: transparent !important;
+    border: #034424 1px solid !important;
+    color: #034424 !important;
+    font-size: 0.6em !important;
+}
+
+.review-txt {
+    vertical-align: middle;
+    color: #8e8e8e;
+    font-size: 0.9em !important;
+}
+
+.icon-share {
+    vertical-align: middle;
+}

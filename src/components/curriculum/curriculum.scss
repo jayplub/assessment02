@@ -1,0 +1,45 @@
+.box {
+    border: 1px #ccc solid;
+    font-size: 0.8em;
+}
+
+.box-title {
+    // width: 100%;
+    font-weight: bold;
+    text-align: left;
+    padding: 5px;
+    margin: 0px 0px 1px 0px;
+    color: #fff;
+    background-color: #7B7B7B;
+}
+
+.box-chapter {
+    color: #5C7635;
+    padding: 5px;
+}
+
+.course-detail {
+    text-align: right;
+}
+
+.course-duration {
+    text-align: right;
+}
+
+.course-name {
+    display: -webkit-box;
+    max-width: 200px;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.player-icon {
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+.badge-example {
+    margin-top: -3px;
+}
