@@ -99,7 +99,7 @@ function CourseList(props) {
                     <div className="course-detail">
                         <div className="d-flex justify-content-end">
                             <div className="p-0">
-                                <FontAwesomeIcon icon={faCheckSquare} className="player-icon" />
+                                <FontAwesomeIcon icon={faFile} className="player-icon" />
                             </div>
                         </div>
                     </div>
